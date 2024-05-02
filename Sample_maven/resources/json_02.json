@@ -1,0 +1,15 @@
+{
+  "first_Name": "Chandana",
+  "last_Name": "M",
+  "phone_Number":"1234567890",
+  "subjects": [
+    {
+      "subject_01": "Manual",
+      "subject_02": "Selenium",
+    },
+    {
+     "subject_01": "Api",
+     "subject_02": "Rest Assured",
+    }
+  ]
+}

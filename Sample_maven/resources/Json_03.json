@@ -1,0 +1,16 @@
+{
+"first_name":"chandana",
+"last_name":"m",
+"phone_no:"1234567890",
+"subjects":[
+{
+"sub_01":"manual",
+"sub_02":"selenium",
+},
+{
+"sub_01":"api",
+"sub_02":"rest assured"
+}
+]
+}
+

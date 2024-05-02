@@ -3,11 +3,16 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="package_02.Launch_04_Test">
+      <class name="extent_reports.SAMPLE_EXTENT_REPORT_3">
         <methods>
-          <include name="launch"/>
+          <include name="closebrowser"/>
+          <include name="flush_report"/>
+          <include name="login"/>
+          <include name="logout"/>
+          <include name="TC_01"/>
+          <include name="browserLaunch"/>
         </methods>
-      </class> <!-- package_02.Launch_04_Test -->
+      </class> <!-- extent_reports.SAMPLE_EXTENT_REPORT_3 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

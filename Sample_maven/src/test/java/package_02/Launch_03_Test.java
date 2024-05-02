@@ -8,7 +8,7 @@ public class Launch_03_Test {
 	@Test
 	public void launch() throws InterruptedException {
 	ChromeDriver driver=new ChromeDriver();
-	driver.get("https://www.kalkifashion.com/");
+	driver.get("https://www.meesho.com/");
 	Reporter.log("package2,script-01",true);
 	Thread.sleep(2000);
 	driver.quit();
